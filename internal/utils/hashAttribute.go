@@ -16,8 +16,9 @@ package utils
 
 import (
 	"crypto/sha256"
-	"gitlab.nymte.ch/nym/coconut/coconutGo"
-	"gitlab.nymte.ch/nym/coconut/coconutGo/utils"
+
+	"github.com/probablespace/coconutGo"
+	"github.com/probablespace/coconutGo/utils"
 )
 
 // TODO: perhaps this could go into the main library package?
